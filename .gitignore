@@ -1,4 +1,4 @@
 *.war
 *.md
-*.java
-!/*.java
+Hello.java
+!/Hello.java
